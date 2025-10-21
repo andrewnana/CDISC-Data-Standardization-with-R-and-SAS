@@ -1,3 +1,4 @@
 # CDISC-Data-Standardization-with-R-and-SAS
 
 In this project, we perform an end-to-end CDISC clinical data standardization workflow using R and SAS. It walks through transforming raw CDASH-based data into standardized SDTM domains, then deriving ADaM analysis datasets and generating Tables, Listings, and Figures (TLFs). The example uses simulated hemoglobin data to illustrate key concepts such as baseline derivation, change from baseline, and analysis flag creation. The workflow highlights how CDISC standards ensure traceability, consistency, and regulatory compliance, while providing clear, reproducible statistical summaries and visualizations suitable for clinical research, regulatory submissions, and data-driven decision-making.
+
